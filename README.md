@@ -25,7 +25,7 @@ AI/ML: Together AI (Meta-Llama-3.1-8B-Instruct-Turbo)
 
 🚀 Getting Started
 1. Clone the Repository
-git clone https://github.com/Dayanshu0001/shifra-voice-assistant.git
+git clone  https://github.com/Dayanshu0001/V-verse-Ai-Model-
 
 cd shifra-voice-assistant
 
